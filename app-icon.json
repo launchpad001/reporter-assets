@@ -110,5 +110,11 @@
   "Epic":"epic",
   "Lightroom":"lr",
   "iPhone镜像": "iphonemirror",
-  "企业微信": "wxwork"
+  "企业微信": "wxwork",
+  "Journal": "journal",
+  "手记": "journal",
+  "FaceTime": "facetime",
+  "FaceTime通话": "facetime",
+  "Phone": "phone",
+  "电话": "phone"
 }
